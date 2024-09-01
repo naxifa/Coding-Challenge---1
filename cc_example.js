@@ -17,9 +17,12 @@ let products = ["Table", "Chair", "Door"];
 const productDetails = {
         name: products,
         price: 675.00,
-        inStock: 12345, 
-}
+        inStock: 12345.00, 
+};
 
 console.log(products, productDetails);
 
+
+
+// Task 3 : Assignment Operators
 
