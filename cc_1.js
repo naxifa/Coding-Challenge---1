@@ -40,5 +40,5 @@ console.log(accountBalance);
 accountBalance /= 7.50;
 console.log(accountBalance);
 
-accountBalance %= 2.50;
+accountBalance %= 6.00;
 console.log(accountBalance);
