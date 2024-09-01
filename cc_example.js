@@ -20,7 +20,7 @@ const productDetails = {
         inStock: 12345, 
 }
 
-console.log(products, productDetails);
-
+console.log(products, typeof(products));
+console.log(productDetails, typeof(productDetails));
 
 
